@@ -1,0 +1,24 @@
+{
+  "editor.formatOnSave": true,
+  "files.exclude": {
+    "**/node_modules": true,
+    "**/pkg": true,
+    "**/target": true,
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true
+  },
+  "cSpell.words": [
+    "bindgen",
+    "browserslist",
+    "cdylib",
+    "libssl",
+    "lldb",
+    "mynpmusername",
+    "takushi",
+    "wakuwaku",
+    "wasm"
+  ]
+}

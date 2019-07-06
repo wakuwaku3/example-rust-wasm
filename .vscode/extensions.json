@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "rebornix.project-snippets",
+    "rust-lang.rust",
+    "streetsidesoftware.code-spell-checker",
+    "vadimcn.vscode-lldb"
+  ]
+}
