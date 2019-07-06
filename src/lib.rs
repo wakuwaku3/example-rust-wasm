@@ -15,5 +15,5 @@ extern {
 
 #[wasm_bindgen]
 pub fn greet() {
-    alert("Hello, example-rust-wasm!");
+    alert("Hello, example-rust-wasm!!");
 }

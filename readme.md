@@ -27,9 +27,7 @@ cargo install cargo-edit
 
 - wasm-build  
   `wasm-pack build`
-- www-run
-  ```
-  cd www
-  mpm i
-  npm start
-  ```
+- www-init or update-wasm  
+  `npm install`
+- www-run  
+  `npm start`
