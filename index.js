@@ -1,3 +1,3 @@
-import * as wasm from "example-rust-wasm";
+import * as wasm from "wasm";
 
 wasm.greet();

@@ -14,6 +14,6 @@
     "copy-webpack-plugin": "^5.0.0"
   },
   "dependencies": {
-    "example-rust-wasm": "file:pkg"
+    "wasm": "file:pkg"
   }
 }
